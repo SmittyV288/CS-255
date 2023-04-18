@@ -13,4 +13,4 @@
   - I interpreted the user's needs by reviewing their requirements and making sure that the system would meet their needs in terms of functionality, security, and usability. It's important to consider the user's needs when designing a system because the success of the system depends on whether it meets the needs of the users.
   
 - How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-  -
+  - I would first start with gathering requirements for the software by having a JAD meeting with a client and their team. I would then create a process model of the system along with an object model. I would review the models for any redundancies and update them as needed. From there I would start creating diagrams for different parts of the system. 
