@@ -1,16 +1,10 @@
 # CS-255
 
-- Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-  - The purpose of the DriverPass project was to create a website that helps train students for their driving test. The client was DriverPass and they wanted me to design a system that would allow students to take online classes and practice tests. They also wanted the system to allow students to make a reservation online to schedule on-the-road training with one of their drivers. 
+- How do I approach designing software?
+  - My new design skills helped me craft a 3D scene that closely matches its real-world counterpart. I made sure to create each object in order of appearance so that the code was easy to follow. It also made it easier to find relevant sections when I needed to adjust values for each object. I also designed the pencil as a parent object so I could move all its parts together, instead of adjusting each position value separately. If I were to make more complex objects in the future, I would use the parent model approach to make manipulating objects in a scene much easier.  
   
-- What did you do particularly well?
-  - I think what I did particularly well was outline the objectives and goals of the system. I gave a fairly detailed description of what the system should do including elements of the system and what should be a part of each element. 
+- How do I approach developing programs?
+  - I looked into different ways to get textures for my objects which included finding websites with free textures, a program that helps create textures, and using my own pictures to use as basic textures. Iteration factored into my development because of the methods I used that were continuously checking for specific input values. An example of this is the programming checking if the user hits the P button to switch between perspective and ortho view. I had to create a bool to deal with the key was pressed or not to stop the scene switch from glitching in the viewport. My approach to developing code has evolved to include more functions to keep it more organized. In the future I would likely create more header files to make my programs more organized and easier to follow.
   
-- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-  - If I could choose one part of my work on these documents to revise, I would pick the use case diagram for the DriverPass project. I would improve it by providing more detail on how the different actors interact with the system and adding more specific use cases.
-  
-- How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-  - I interpreted the user's needs by reviewing their requirements and making sure that the system would meet their needs in terms of functionality, security, and usability. It's important to consider the user's needs when designing a system because the success of the system depends on whether it meets the needs of the users.
-  
-- How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-  - I would first start with gathering requirements for the software by having a JAD meeting with a client and their team. I would then create a process model of the system along with an object model. I would review the models for any redundancies and update them as needed. From there I would start creating diagrams for different parts of the system.
+- How can computer science help me in reaching my goals?
+  - Computational graphics and visualizations have gotten me interested in learning more. Before this class I had no interest in 3D rendering but now I find myself wanting to learn more about modeling different real-life objects. I have been teaching myself how to use Blender and Maya to achieve this. The base knowledge from this class has given me the skills to understand how to edit a model and its texture coordinates. If in the future I decided to go into game development, I can use this knowledge and what else I plan to learn to show a future employer. 
